@@ -1,0 +1,13 @@
+Encapsulation is the one of the OOP Principle
+
+The Process of Wrapping up of Variable and Methods as one
+unit by using a class and operating those Variable Only
+Via methods either for reading or Modifying values
+is called ENCAPSULATION
+
+By Developing Encapsulation we are hiding data from direct access from other
+object  and providing access via publicly available Getter and Setter methos
+with proper Validation.
+
+Hence through Encapsulation :
+We will get Security to Object data and Reusability, Centralized Modification to Object Code
