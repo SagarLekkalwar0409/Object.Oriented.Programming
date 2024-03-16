@@ -1,1 +1,12 @@
-Inheritance is one of the OOP Principle
+Inheritance is a parent Child relation
+
+Inheritance is the process of creating a new class deriving frOM
+an Existing class for obtaining type, Properties and Behaviours
+for Extending or Implementing the functionality os this existing
+object by Reusing its existing Properties and Behaviours is called
+INHERITANCE
+
+As part of inheritance we will develop sub type objects of an
+existing object.
+
+In short Inheritance means Extending & Reusing which is Already Made
