@@ -5,7 +5,7 @@ only necessary Information for invoking an Object methods
 is called Abstraction.
 -----------------------------------------------------------------------------------------------
 
-2) How can we Develop Abstraction?
+2) How can we Develop Abstraction??
 By using abstract method, by declaring it either in Abstract class
 or in interface.
 

@@ -23,7 +23,7 @@
     public static void main(String[] args){
         Example ex = new Sample();
         ex.m1();
-        ex.m1(10);
+        ex.m1(20);
 
     }
  }

@@ -23,7 +23,7 @@ abstract class Shape {
 class Circle extends Shape {
     private double radius; // Radius of the circle
 
-    // Constructor to initialize the color and radius of the circle
+    // Constructor to initialize the color and radius of the circle..
     public Circle(String color, double radius) {
         super(color);
         this.radius = radius;
