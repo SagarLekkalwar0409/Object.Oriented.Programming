@@ -1,0 +1,25 @@
+1) What is Abstraction ?
+Abstraction is the Process of Hiding implementation details of an
+Object Operation Method from User class Programmer and Providing
+only necessary Information for invoking an Object methods
+is called Abstraction.
+-----------------------------------------------------------------------------------------------
+
+2) How can we Develop Abstraction?
+By using abstract method, by declaring it either in Abstract class
+or in interface.
+
+By creating abstract method we are hiding its implementation
+details by providing subClass.
+-----------------------------------------------------------------------------------------------
+
+3) What is Abstract method and its rules?
+Definition: A method that does not body, that has only Prototype is
+called Abstract Method.
+
+Rule: Abstract method should has abstract modifier and
+                      should end with semicolon;
+                      should not have other modifier except protected and public
+                      should be created only either inside abstract class or inside interface,
+-----------------------------------------------------------------------------------------------
+
